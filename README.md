@@ -1,2 +1,2 @@
 # app-boilerplate
-Some readme.
+Some readme
